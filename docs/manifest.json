@@ -15,7 +15,7 @@
  
 "permissions": ["activeTab"],
   "chrome_url_overrides": {
-    "newtab": "smg.html"
+    "newtab": "index.html"
   }
   
   }
