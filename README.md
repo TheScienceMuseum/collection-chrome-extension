@@ -7,7 +7,7 @@ The Chrome extension files are in the [docs folder](https://github.com/TheScienc
 Instructions for testing on Chrome ahead of launch on Chrome Store:
 1. [Download the zip file](https://github.com/TheScienceMuseum/collection-chrome-extension/blob/master/smg-col-chrome-extension.zip) 
 2. Unzip the files
-3. In the Chrome browser, visit chrome://extensions/ 
+3. In the Chrome browser, visit [chrome://extensions/](chrome://extensions/)
 4. Check the box for Developer mode in the top right
 5. Click on the Load Unpacked button
 6. Select the unzipped folder
