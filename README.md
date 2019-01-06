@@ -7,3 +7,5 @@ The Chrome extension files are in the [docs folder](https://github.com/TheScienc
 View a [preview of the page](https://thesciencemuseum.github.io/collection-chrome-extension/index.html) rendered by the extension in each new tab.
 
 [Download the zip file](https://github.com/TheScienceMuseum/collection-chrome-extension/blob/master/smg-col-chrome-extension.zip) to test on Chrome ahead of launch on Chrome Store. 
+
+Licenced under the [MIT License](https://github.com/TheScienceMuseum/collection-chrome-extension/blob/master/LICENSE) with the exception of the icons which are copyright [iconmonstr](https://iconmonstr.com). 
