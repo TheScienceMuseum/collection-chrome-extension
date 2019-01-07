@@ -22,7 +22,7 @@ Instructions for use in the Safari browser:
 4. Set "Homepage" to https://thesciencemuseum.github.io/collection-chrome-extension/index.html
 
 ## Installing in Firefox
-Instructions for use in the Safari browser:
+Instructions for use in the Firefox browser:
 1. Select Firefox dropdown menu and then "Preferences..."
 2. Set "New window opens with" to "Homepage"
 3. Select "Home" in the right-hand navigation
