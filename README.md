@@ -24,9 +24,8 @@ Instructions for use in the Safari browser:
 ## Installing in Firefox
 Instructions for use in the Firefox browser:
 1. Select Firefox dropdown menu and then "Preferences..."
-2. Set "New window opens with" to "Homepage"
-3. Select "Home" in the right-hand navigation
-4. Under the "New Windows and Tabs" heading set "Homepage and new windows" to "Custom URLs" and enter https://thesciencemuseum.github.io/collection-chrome-extension/index.html in the "Paste a URL" box. 
+2. Select "Home" in the right-hand navigation
+3. Under the "New Windows and Tabs" heading set "Homepage and new windows" to "Custom URLs" and enter https://thesciencemuseum.github.io/collection-chrome-extension/index.html in the "Paste a URL" box. 
 
 ## License
 
