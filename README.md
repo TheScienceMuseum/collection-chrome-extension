@@ -30,3 +30,5 @@ Instructions for use in the Firefox browser:
 ## License
 
 Licensed under the [MIT License](https://github.com/TheScienceMuseum/collection-chrome-extension/blob/master/LICENSE) with the exception of the icons which are copyright [iconmonstr](https://iconmonstr.com). 
+
+![Example screenshot showing Sinclair ZX Spectrum computer](https://github.com/TheScienceMuseum/collection-chrome-extension/blob/master/Example_screenshot.png)
