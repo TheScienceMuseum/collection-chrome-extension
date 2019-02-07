@@ -1,4 +1,5 @@
-# Science Museum Group Collection Chrome Extension
+# Museum in a Tab
+## Science Museum Group Collection Chrome Extension
 
 This Chrome browser extension loads a random object with an image from the [Science Museum Group Collection](https://collection.sciencemuseum.org.uk) each time the user opens a new tab in the Chrome browser. View a [preview of the page](https://thesciencemuseum.github.io/collection-chrome-extension/index.html) rendered by the extension in each new tab.
 
