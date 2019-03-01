@@ -28,8 +28,8 @@ Instructions for use in the Firefox browser:
 2. Select "Home" in the right-hand navigation
 3. Under the "New Windows and Tabs" heading set "Homepage and new windows" to "Custom URLs" and enter https://thesciencemuseum.github.io/collection-chrome-extension/index.html in the "Paste a URL" box. 
 
-## License
+## Open Source License
 
-Licensed under the [MIT License](https://github.com/TheScienceMuseum/collection-chrome-extension/blob/master/LICENSE) with the exception of the icons which are copyright [iconmonstr](https://iconmonstr.com). 
+Licensed under the open source [MIT License](https://github.com/TheScienceMuseum/collection-chrome-extension/blob/master/LICENSE) with the exception of the icons which are copyright [iconmonstr](https://iconmonstr.com). 
 
 ![Example screenshot showing Sinclair ZX Spectrum computer](https://github.com/TheScienceMuseum/collection-chrome-extension/blob/master/Example_screenshot.png)
