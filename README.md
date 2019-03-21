@@ -5,15 +5,11 @@ This Chrome browser extension loads a random object with an image from the [Scie
 
 The Chrome extension files are in the [docs folder](https://github.com/TheScienceMuseum/collection-chrome-extension/tree/master/docs). Correctly sized images for the Chrome Web Store are in the [chrome-store-promo-images folder](https://github.com/TheScienceMuseum/collection-chrome-extension/tree/master/chrome-store-promo-images).
 
-## Installing in Chrome (prerelease on Chrome Web Store)
+## Installing in Chrome 
 
-Instructions for testing on the Chrome browser ahead of launch on Chrome Web Store:
-1. [Download the zip file](https://github.com/TheScienceMuseum/collection-chrome-extension/blob/master/smg-col-chrome-extension.zip) 
-2. Unzip the files
-3. In the Chrome browser, visit [chrome://extensions/](chrome://extensions/)
-4. Check the box for "Developer Mode" in the top right
-5. Click on the "Load Unpacked" button
-6. Select the unzipped folder
+Instructions for testing on the Chrome browser:
+1. Using the Chrome Browser, [visit the extension's Chrome Web Store page](https://chrome.google.com/webstore/detail/museum-in-a-tab/cimeodcpfcofmebahghcaiiidbaijnkl) 
+2. Click on the "Add to Chrome" button
 
 ## Installing in Safari
 Instructions for use in the Safari browser:
