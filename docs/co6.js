@@ -15,6 +15,6 @@ request.addEventListener('load', function (e) {
 });
 
 // Get a random object 
-request.open('GET', 'https://collection.sciencemuseum.org.uk/search/images/?random=1');
+request.open('GET', 'https://collection.sciencemuseumgroup.org.uk/search/images/?random=1');
 request.setRequestHeader('accept', 'application/json');
 request.send();
