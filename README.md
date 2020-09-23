@@ -14,9 +14,10 @@ Instructions for testing on the Chrome browser:
 ## Installing in Safari
 Instructions for use in the Safari browser:
 1. Select Safari dropdown menu and then "Preferences..."
-2. Set "New window opens with" to "Homepage"
-3. Set "New tabs opens with" to "Homepage"
-4. Set "Homepage" to https://thesciencemuseum.github.io/collection-chrome-extension/index.html
+2. Select the "General" tab
+3. Set "New window opens with" to "Homepage"
+4. Set "New tabs opens with" to "Homepage"
+5. Set "Homepage" to https://thesciencemuseum.github.io/collection-chrome-extension/index.html
 
 ## Installing in Firefox
 Instructions for use in the Firefox browser:
