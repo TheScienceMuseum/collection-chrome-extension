@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Museum in a Tab",
-  "version": "1.8.2",
+  "version": "1.8.3",
 
   "description": "See historic items from science, technology, medicine and art in your browser.",
 
@@ -13,7 +13,7 @@
  "default_icon": "android-icon-192x192.png"
  },
  
-"permissions": ["activeTab"],
+"permissions": ["tabs"],
   "chrome_url_overrides": {
     "newtab": "index.html"
   },
