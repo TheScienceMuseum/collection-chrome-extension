@@ -13,7 +13,7 @@ Instructions for testing on the Chrome browser:
 
 ## Installing in Safari
 Instructions for use in the Safari browser:
-1. Select Safari dropdown menu and then "Preferences..."
+1. Select Safari dropdown menu and then "Settings..."
 2. Select the "General" tab
 3. Set "New window opens with" to "Homepage"
 4. Set "New tabs opens with" to "Homepage"
