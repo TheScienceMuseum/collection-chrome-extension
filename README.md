@@ -3,7 +3,9 @@
 
 This Chrome browser extension loads a random object with an image from the [Science Museum Group Collection](https://collection.sciencemuseumgroup.org.uk) each time the user opens a new tab in the Chrome browser. View a [preview of the page](https://thesciencemuseum.github.io/collection-chrome-extension/index.html) rendered by the extension in each new tab.
 
-The Chrome extension files are in the [docs folder](https://github.com/TheScienceMuseum/collection-chrome-extension/tree/master/docs). Correctly sized images for the Chrome Web Store are in the [chrome-store-promo-images folder](https://github.com/TheScienceMuseum/collection-chrome-extension/tree/master/chrome-store-promo-images).
+* The Chrome extension files are in the [Chrome Extention](https://github.com/TheScienceMuseum/collection-chrome-extension/tree/master/Chrome%20Extention) folder. 
+* The [docs folder](https://github.com/TheScienceMuseum/collection-chrome-extension/tree/master/docs) contains the web version. 
+* Correctly sized images for the Chrome Web Store are in the [chrome-store-promo-images folder](https://github.com/TheScienceMuseum/collection-chrome-extension/tree/master/chrome-store-promo-images).
 
 ## Installing in Chrome 
 
