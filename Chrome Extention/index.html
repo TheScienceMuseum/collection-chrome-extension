@@ -1,0 +1,186 @@
+<html lang="en">
+<head>
+
+  <title>Museum in a Tab</title>
+	
+	<link rel="apple-touch-icon" sizes="180x180" href="https://thesciencemuseum.github.io/collection-chrome-extension/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="https://thesciencemuseum.github.io/collection-chrome-extension/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="https://thesciencemuseum.github.io/collection-chrome-extension/favicon-16x16.png">
+	<link rel="manifest" href="https://thesciencemuseum.github.io/collection-chrome-extension/site.webmanifest">
+	<link rel="mask-icon" href="https://thesciencemuseum.github.io/collection-chrome-extension/safari-pinned-tab.svg" color="#4d4c4c">
+	<meta name="msapplication-TileColor" content="#603cba">
+	<meta name="theme-color" content="#ffffff">
+  
+    <style>
+  
+    @font-face {
+        font-family: SMGSans;
+        src: url(SMGSans-Regular.woff) format("woff");
+    }
+    
+    body { 
+      margin: 0;
+      padding: 0;
+    }
+    
+    .container {
+        width: 99%;
+        height: 99%;
+        margin-left: auto;
+        margin-right: auto;  
+    }
+    
+    #label { 
+      height: 90%;
+      padding: 15px;
+      width: 30%;
+      font-family: SMGSans;
+      font-size: 20px;
+      color: black;
+      float: left;
+    }
+    
+    #label img {
+      opacity: 1;
+      width: 36px;
+      height: 36px;
+    }
+    
+    #label img:hover {
+      opacity: 1; 
+    }
+   
+   #wrapper {
+     position: relative;
+     top: 50%;
+     transform: perspective(1px) translateY(-50%);
+    }
+    
+   #title a {
+    color: black;
+    text-decoration: none;
+    line-height: 1.5;
+    } 
+    
+   #title a:hover {
+    text-decoration: none;
+    border-bottom: 2px solid black;
+    } 
+
+   #reload, #pinterest, #twitter, #facebook {
+    float: left;
+    padding-right: 18px;
+    padding-top: 18px;
+    }
+	  
+   #smg {
+    color: black;
+    opacity: 1;
+    clear: left;
+    font-family: SMGSans;
+    font-size: 16px;
+    padding-top: 22px;
+    font-weight: light;
+    }
+	  
+   #smg a {
+    color: black;
+    text-decoration: none;
+    line-height: 1.5;
+    }
+	  
+   #smg a:hover {
+    text-decoration: none;
+    border-bottom: 1px solid black;
+    }	  
+   
+   #pix {
+    width: 60%; 
+    float: right; 
+    margin: 15px;
+    height: 95%;
+    }
+    
+   #pix img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    overflow: hidden;
+    } 
+
+  @media only screen and (max-width: 600px) {
+   #label {
+    width: 90%;
+    height: auto; 
+    padding-top: 0px;
+    margin-bottom: 0px;
+    }
+	  
+   .container {
+	width: 99%;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto; 
+   }
+   
+    #wrapper {
+     position: static;
+     top: 0px;
+     transform: none;
+    }
+
+    
+   #title {
+    padding-top: 20px;
+   }
+    
+   #pix {
+     width: 90%; 
+     padding: 0px; 
+     float: left;  
+    }
+    
+    #smg {
+    display: none;
+    }
+    
+    #pix img {
+     object-position: 0% 0%;    
+    }	   
+
+  }
+      
+</style>
+	
+	
+<meta name="robots" content="noindex" /> 
+	
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	
+</head>
+
+<body>
+
+  
+  <script src="co6.js"></script>
+  
+  <div class="container">
+  
+  <div id="label">
+    <div id="wrapper">
+      <div id="title"></div>
+      <div id="reload"><a href="index.html"><img src="synchronization-3.svg" alt="Show me another"></a></div>
+      <div id="pinterest"></div>
+      <div id="twitter"></div>  
+      <div id="facebook"></div> 
+      <div id="smg"><a href="https://collection.sciencemuseumgroup.org.uk">One of 7.3 million items in the Science Museum Group&nbsp;Collection</a></div>
+    </div> 
+  </div>  
+    
+  <div id="pix"> </div>
+  
+  </div>
+  
+</body>
+</html>

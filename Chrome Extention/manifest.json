@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Museum in a Tab",
+  "version": "1.8.8",
+
+  "description": "See historic items from science, technology, medicine and art in your browser.",
+
+"icons": { "16": "icon16.png",
+           "48": "icon48.png",
+          "128": "icon128.png" },
+
+ 
+
+ "chrome_url_overrides" : {
+    "newtab": "index.html"
+  }
+   
+}
+  
+ 
