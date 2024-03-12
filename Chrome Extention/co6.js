@@ -1,5 +1,5 @@
 var request = new XMLHttpRequest();
-var imghost = 'https://s3-eu-west-1.amazonaws.com/smgco-images/images/';
+var imghost = 'https://coimages.sciencemuseumgroup.org.uk/';
 
 request.addEventListener('load', function (e) {
   // response comes back as "{data: [{attributes: {locations: [{...}], summary_title: '...'} ...}, {} ...]}"
